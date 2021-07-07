@@ -1,6 +1,6 @@
 # static-d-day
 D-Day 를 계산해서 보여줍니다. <br/>
-Notion 에 임베드해서 보여주기 위해 만들어졌습니다.
+[Notion](https://www.notion.so/me-f1450b59d11540c6ad64d2e7703668f5) 에 임베드해서 보여주기 위해 만들어졌습니다.
 
 ## Supported params
 
