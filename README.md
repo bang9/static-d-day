@@ -20,4 +20,4 @@ Notion 에 임베드해서 보여주기 위해 만들어졌습니다.
 ## Example
 <img src="https://user-images.githubusercontent.com/26326015/124765739-3ba68780-df71-11eb-8e37-ddbcf089ab4e.png" width=400 />
 
-[click me](https://bang9.github.io/static-d-day?prefix=개발자로&since=2018-10-01&format=day&suffix=째.&align=left&color=rgb(255,132,58))
+[https://bang9.github.io/static-d-day?prefix=개발자로&since=2018-10-01&format=day&suffix=째.&align=center&color=rgb(255,132,58)](https://bang9.github.io/static-d-day?prefix=개발자로&since=2018-10-01&format=day&suffix=째.&align=center&color=rgb(255,132,58))
